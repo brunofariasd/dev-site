@@ -26,7 +26,7 @@ The project is organized as follows:
 2. Open `index.html` in your preferred browser to view the portfolio.
 
 Alternatively, you can visit the live version of the site hosted on GitHub Pages:  
-[**My Portfolio**](https://brunofariasd.github.io/Portfolio-/)
+[**My Portfolio**](https://brunofariasd.github.io/dev-site/)
 
 ## ✨ Features to Add:
 - More detailed project descriptions and case studies.
